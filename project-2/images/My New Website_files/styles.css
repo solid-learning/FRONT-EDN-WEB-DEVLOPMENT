@@ -1,0 +1,72 @@
+h1{
+    color:rgb(226, 39, 39);
+}
+h2{
+    color:rgb(71, 60, 214);
+}
+body{
+   background-image: linear-gradient(rgba(225,225,225,0.5),rgba(225,225,225,0.5)), url(images/bg1.jpg);
+   background-size: cover;
+}
+hr{
+    border-width:5px;
+    border-style:solid;
+   
+}
+
+p{
+    height = 2
+}
+
+table{background-color: rgba(1, 255, 255, 0.5);}
+.top-container{
+    background-color: aqua;
+    position: relative;
+    padding-top:100px;
+}
+.csvtu{
+    position:absolute;
+    right:500px;
+    top:40px;
+}
+
+.middle{
+    margin: 100px 0;
+    text-align :left;
+    line-height: 2;
+}
+
+.image{
+    border-radius: 100%
+}
+
+.ayush{
+    position:relative;
+    top:o.5px;
+    left:400px;
+ 
+   
+    
+}
+
+.pihu{
+    
+    padding-top:100px;
+    padding-bottom:100px;
+    font-family: cursive;
+}
+ td{
+     padding: 1rem;
+ }
+
+.bottom{
+    padding top: 100px;
+    padding-bottom:100px;
+    background-color: black;
+
+}
+
+.image-girl{
+    shape-image-threshold: unset;
+}
+
