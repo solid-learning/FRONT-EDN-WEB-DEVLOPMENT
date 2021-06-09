@@ -1,0 +1,46 @@
+.navbar {
+    background-color: rgba(26, 12, 102, 0.918);
+    /* position: fixed;
+    top: 0; */
+    width: 100%;
+    overflow: hidden;
+    height: 80px;
+}
+
+.collapse {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.card-body {
+    background-color: rgb(11, 6, 37);
+    font-size: 18px;
+    color: white;
+}
+
+footer {
+    margin-top: 70px;
+    background-color: rgb(26, 12, 102);
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#footertext {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.canvas:hover {
+    box-shadow: 3px 3px 10px 3px rgb(187, 199, 240);
+}
+
+.foot:hover {
+    color: orange !important;
+    text-decoration-line: underline !important;
+}

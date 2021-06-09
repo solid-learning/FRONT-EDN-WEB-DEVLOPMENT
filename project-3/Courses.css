@@ -1,0 +1,73 @@
+.bg1 {
+    background-image: url("images/homeimage.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.card {
+    background-color: black;
+    margin: 20px;
+}
+
+.navbar {
+    background-color: rgba(26, 12, 102, 0.918);
+    /* position: fixed;
+    top: 0; */
+    width: 100%;
+    overflow: hidden;
+    height: 80px;
+}
+
+.collapse {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.head1 {
+    background-color: rgba(255, 255, 255, 0.815);
+    padding: 20px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 18px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.coursename {
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+
+footer {
+    background-color: rgb(26, 12, 102);
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#footertext {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.canvas:hover {
+    box-shadow: 3px 3px 10px 3px rgb(187, 199, 240);
+}
+
+.foot:hover {
+    color: orange !important;
+    text-decoration-line: underline !important;
+}
+
+.enroll:hover {
+    box-shadow: 3px 3px 12px 5px rgb(158, 157, 157);
+}

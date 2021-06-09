@@ -1,0 +1,58 @@
+.navbar {
+    background-color: rgba(26, 12, 102, 0.918);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    overflow: hidden;
+    height: 85px;
+}
+
+.collapse {
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.navbar-brand {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+body {
+    background-image: url("images/courseimg.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+
+button {
+    border: none;
+    background-color: rgb(26, 12, 102);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+footer {
+    background-color: rgb(26, 12, 102);
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+#footertext {
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.canvas:hover {
+    box-shadow: 3px 3px 10px 3px rgb(187, 199, 240) !important;
+}
+
+.foot:hover {
+    color: orange !important;
+    text-decoration-line: underline !important;
+}
+
+.sub:hover {
+    color: rgb(202, 191, 191) !important;
+    box-shadow:3px 3px 12px 5px rgb(5, 59, 104) !important;
+}
